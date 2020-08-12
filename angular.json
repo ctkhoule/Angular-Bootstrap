@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bootgular"
+    }
+  },
+  "defaultProject": "bootgular",
+  "cli": {
+    "analytics": false
+  }
 }
